@@ -147,3 +147,28 @@ position: relative;
         display: none;
     }
 }
+.navbar-search-form {
+    display: flex;
+    align-items: center;
+  }
+  
+  .navbar-search-form input {
+    padding: 8px 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    margin-right: 5px;
+  }
+  
+  .navbar-search-form button {
+    padding: 8px 12px;
+    margin-right: 5px;
+    background-color: #FF4D4D;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .navbar-search-form button:last-child {
+    background-color: #ccc;
+  }
