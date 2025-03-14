@@ -20,7 +20,6 @@ const Navbar = ({ setShowLogin }) => {
   const handleSearch = (e) => {
     e.preventDefault();
     if (searchQuery.trim()) {
-      // Meet Shah search logic here
       navigate(`/search?q=${encodeURIComponent(searchQuery)}`);
       setShowSearch(false);
       setSearchQuery("");
