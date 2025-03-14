@@ -155,7 +155,7 @@ export const food_list = [
         category: "Rolls"
     }, {
         _id: "6",
-        name: "Peri Peri Rolls",
+        name: "Vegetable shushi Rolls",
         image: food_6,
         price: 12,
         description: "Food provides essential nutrients for overall health and well-being",
@@ -176,7 +176,7 @@ export const food_list = [
         category: "Rolls"
     }, {
         _id: "9",
-        name: "Ripple Ice Cream",
+        name: "Cooconut Ice Cream",
         image: food_9,
         price: 14,
         description: "Food provides essential nutrients for overall health and well-being",
@@ -190,7 +190,7 @@ export const food_list = [
         category: "Deserts"
     }, {
         _id: "11",
-        name: "Jar Ice Cream",
+        name: "Grape Ice Cream",
         image: food_11,
         price: 10,
         description: "Food provides essential nutrients for overall health and well-being",
