@@ -47,16 +47,24 @@ cd MNPS-Food-Delivery
 ### Start Backend
 ```bash
 cd backend
-npm start
+npm install
+npm run server
 ```
 
 ### Start Frontend
 ```bash
 cd frontend
-npm start
+npm install
+npm run dev
+```
+### Start Backend
+```bash
+cd backend
+npm install
+npm run dev
 ```
 
-The app will be accessible at [http://localhost:3000](http://localhost:3000).
+The app will be accessible at [http://localhost:5173](http://localhost:5173).
 
 ## Usage
 
