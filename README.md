@@ -164,5 +164,4 @@ MNPS-Food-Delivery/
 🙏 **All contributors** who helped improve this project!  
 
 📌 For any inquiries, contact us via **GitHub Issues** or email.
-```
 
