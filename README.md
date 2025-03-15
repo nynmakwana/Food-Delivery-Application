@@ -134,9 +134,13 @@ MNPS-Food-Delivery/
 ## Design Patterns Used
 
 ✔ **Model-View-Controller (MVC):** Separates business logic, data, and UI.
+
 ✔ **Singleton Pattern:** Ensures only one database connection exists.
+
 ✔ **Observer Pattern:** Notifies customers of real-time order status updates.
+
 ✔ **Factory Pattern:** Used for creating different user roles (Admin, Customer, Delivery).
+
 ✔ **Decorator Pattern:** Adds flexible discounts and taxes in the payment module.
 
 ## Future Enhancements
